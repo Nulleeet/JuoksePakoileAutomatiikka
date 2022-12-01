@@ -1,4 +1,4 @@
-# runebot
+# JuoksePakoileAutomatiikka
 
 Project to learn python somehow
 
